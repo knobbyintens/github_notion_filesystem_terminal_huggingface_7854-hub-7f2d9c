@@ -1,0 +1,7 @@
+{
+  "id": "aether-pull",
+  "display_name": "Aether Pull",
+  "tier": "standard",
+  "schedule": "0 */2 * * *",
+  "supports_incremental": true
+}

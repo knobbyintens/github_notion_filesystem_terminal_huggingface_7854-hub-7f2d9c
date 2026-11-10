@@ -1,0 +1,7 @@
+{
+  "id": "sable-stream",
+  "display_name": "Sable Stream",
+  "tier": "standard",
+  "schedule": "0 */2 * * *",
+  "supports_incremental": true
+}

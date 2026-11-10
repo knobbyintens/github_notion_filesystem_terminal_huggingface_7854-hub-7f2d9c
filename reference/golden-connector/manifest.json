@@ -1,0 +1,7 @@
+{
+  "id": "golden-connector",
+  "display_name": "Golden Connector",
+  "tier": "standard",
+  "schedule": "0 */2 * * *",
+  "supports_incremental": true
+}

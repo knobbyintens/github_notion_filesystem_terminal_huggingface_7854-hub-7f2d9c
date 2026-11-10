@@ -1,0 +1,7 @@
+{
+  "id": "glacier-sink",
+  "display_name": "Glacier Sink",
+  "tier": "standard",
+  "schedule": "0 */2 * * *",
+  "supports_incremental": true
+}

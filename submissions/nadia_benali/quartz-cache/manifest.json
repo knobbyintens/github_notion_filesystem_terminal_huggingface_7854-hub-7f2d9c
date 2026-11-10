@@ -1,0 +1,7 @@
+{
+  "id": "quartz-cache",
+  "display_name": "Quartz Cache",
+  "tier": "standard",
+  "schedule": "0 */2 * * *",
+  "supports_incremental": true
+}

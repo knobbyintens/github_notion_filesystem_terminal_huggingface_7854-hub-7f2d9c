@@ -1,0 +1,7 @@
+{
+  "id": "ember-import",
+  "display_name": "Ember Import",
+  "tier": "standard",
+  "schedule": "0 */2 * * *",
+  "supports_incremental": true
+}

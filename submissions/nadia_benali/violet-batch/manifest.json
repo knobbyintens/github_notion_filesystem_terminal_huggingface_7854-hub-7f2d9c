@@ -1,0 +1,7 @@
+{
+  "id": "violet-batch",
+  "display_name": "Violet Batch",
+  "tier": "standard",
+  "schedule": "0 */2 * * *",
+  "supports_incremental": true
+}

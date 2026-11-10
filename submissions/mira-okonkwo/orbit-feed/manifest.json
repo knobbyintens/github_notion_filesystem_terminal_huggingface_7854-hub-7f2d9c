@@ -1,0 +1,7 @@
+{
+  "id": "orbit-feed",
+  "display_name": "Orbit Feed",
+  "tier": "standard",
+  "schedule": "0 */2 * * *",
+  "supports_incremental": true
+}

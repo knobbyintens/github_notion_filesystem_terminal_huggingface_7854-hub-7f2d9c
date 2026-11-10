@@ -1,0 +1,7 @@
+{
+  "id": "meridian-export",
+  "display_name": "Meridian Export",
+  "tier": "standard",
+  "schedule": "0 */2 * * *",
+  "supports_incremental": true
+}
